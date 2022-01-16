@@ -1,0 +1,2502 @@
+[
+  {
+    "move": "A00",
+    "moveName": "Uncommon Opening",
+    "steps": "1 g4, a3, h3, etc."
+  },
+  {
+    "move": "A01",
+    "moveName": "Nimzovich-Larsen Attack",
+    "steps": "1 b3"
+  },
+  {
+    "move": "A02",
+    "moveName": "Bird's Opening",
+    "steps": "1 f4"
+  },
+  {
+    "move": "A03",
+    "moveName": "Bird's Opening",
+    "steps": "1 f4 d5"
+  },
+  {
+    "move": "A04",
+    "moveName": "Reti Opening",
+    "steps": "1 Nf3"
+  },
+  {
+    "move": "A05",
+    "moveName": "Reti Opening",
+    "steps": "1 Nf3 Nf6"
+  },
+  {
+    "move": "A06",
+    "moveName": "Reti Opening",
+    "steps": "1 Nf3 d5"
+  },
+  {
+    "move": "A07",
+    "moveName": "King's Indian Attack",
+    "steps": "1 Nf3 d5 2 g3"
+  },
+  {
+    "move": "A08",
+    "moveName": "King's Indian Attack",
+    "steps": "1 Nf3 d5 2 g3 c5 3 Bg2"
+  },
+  {
+    "move": "A09",
+    "moveName": "Reti Opening",
+    "steps": "1 Nf3 d5 2 c4"
+  },
+  {
+    "move": "A10",
+    "moveName": "English",
+    "steps": "1 c4"
+  },
+  {
+    "move": "A11",
+    "moveName": "English, Caro-Kann Defensive System",
+    "steps": "1 c4 c6"
+  },
+  {
+    "move": "A12",
+    "moveName": "English with b3",
+    "steps": "1 c4 c6 2 Nf3 d5 3 b3"
+  },
+  {
+    "move": "A13",
+    "moveName": "English",
+    "steps": "1 c4 e6"
+  },
+  {
+    "move": "A14",
+    "moveName": "English",
+    "steps": "1 c4 e6 2 Nf3 d5 3 g3 Nf6 4 Bg2 Be7 5 O-O"
+  },
+  {
+    "move": "A15",
+    "moveName": "English",
+    "steps": "1 c4 Nf6"
+  },
+  {
+    "move": "A16",
+    "moveName": "English",
+    "steps": "1 c4 Nf6 2 Nc3"
+  },
+  {
+    "move": "A17",
+    "moveName": "English",
+    "steps": "1 c4 Nf6 2 Nc3 e6"
+  },
+  {
+    "move": "A18",
+    "moveName": "English, Mikenas-Carls",
+    "steps": "1 c4 Nf6 2 Nc3 e6 3 e4"
+  },
+  {
+    "move": "A19",
+    "moveName": "English, Mikenas-Carls, Sicilian Variation",
+    "steps": "1 c4 Nf6 2 Nc3 e6 3 e4 c5"
+  },
+  {
+    "move": "A20",
+    "moveName": "English",
+    "steps": "1 c4 e5"
+  },
+  {
+    "move": "A21",
+    "moveName": "English",
+    "steps": "1 c4 e5 2 Nc3"
+  },
+  {
+    "move": "A22",
+    "moveName": "English",
+    "steps": "1 c4 e5 2 Nc3 Nf6"
+  },
+  {
+    "move": "A23",
+    "moveName": "English, Bremen System, Keres Variation",
+    "steps": "1 c4 e5 2 Nc3 Nf6 3 g3 c6"
+  },
+  {
+    "move": "A24",
+    "moveName": "English, Bremen System with ...g6",
+    "steps": "1 c4 e5 2 Nc3 Nf6 3 g3 g6"
+  },
+  {
+    "move": "A25",
+    "moveName": "English",
+    "steps": "1 c4 e5 2 Nc3 Nc6"
+  },
+  {
+    "move": "A26",
+    "moveName": "English",
+    "steps": "1 c4 e5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3 d6"
+  },
+  {
+    "move": "A27",
+    "moveName": "English, Three Knights System",
+    "steps": "1 c4 e5 2 Nc3 Nc6 3 Nf3"
+  },
+  {
+    "move": "A28",
+    "moveName": "English",
+    "steps": "1 c4 e5 2 Nc3 Nc6 3 Nf3 Nf6"
+  },
+  {
+    "move": "A29",
+    "moveName": "English, Four Knights, Kingside Fianchetto",
+    "steps": "1 c4 e5 2 Nc3 Nc6 3 Nf3 Nf6 4 g3"
+  },
+  {
+    "move": "A30",
+    "moveName": "English, Symmetrical",
+    "steps": "1 c4 c5"
+  },
+  {
+    "move": "A31",
+    "moveName": "English, Symmetrical, Benoni Formation",
+    "steps": "1 c4 c5 2 Nf3 Nf6 3 d4"
+  },
+  {
+    "move": "A32",
+    "moveName": "English, Symmetrical Variation",
+    "steps": "1 c4 c5 2 Nf3 Nf6 3 d4 cxd4 4 Nxd4 e6"
+  },
+  {
+    "move": "A33",
+    "moveName": "English, Symmetrical",
+    "steps": "1 c4 c5 2 Nf3 Nf6 3 d4 cxd4 4 Nxd4 e6 5 Nc3 Nc6"
+  },
+  {
+    "move": "A34",
+    "moveName": "English, Symmetrical",
+    "steps": "1 c4 c5 2 Nc3"
+  },
+  {
+    "move": "A35",
+    "moveName": "English, Symmetrical",
+    "steps": "1 c4 c5 2 Nc3 Nc6"
+  },
+  {
+    "move": "A36",
+    "moveName": "English",
+    "steps": "1 c4 c5 2 Nc3 Nc6 3 g3"
+  },
+  {
+    "move": "A37",
+    "moveName": "English, Symmetrical",
+    "steps": "1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 Nf3"
+  },
+  {
+    "move": "A38",
+    "moveName": "English, Symmetrical",
+    "steps": "1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 Nf3 Nf6"
+  },
+  {
+    "move": "A39",
+    "moveName": "English, Symmetrical, Main line with d4",
+    "steps": "1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 Nf3 Nf6 6 O-O O-O 7 d4"
+  },
+  {
+    "move": "A40",
+    "moveName": "Queen's Pawn Game",
+    "steps": "1 d4"
+  },
+  {
+    "move": "A41",
+    "moveName": "Queen's Pawn Game (with ...d6)",
+    "steps": "1 d4 d6"
+  },
+  {
+    "move": "A42",
+    "moveName": "Modern Defense, Averbakh System",
+    "steps": "1 d4 d6 2 c4 g6 3 Nc3 Bg7 4 e4"
+  },
+  {
+    "move": "A43",
+    "moveName": "Old Benoni",
+    "steps": "1 d4 c5"
+  },
+  {
+    "move": "A44",
+    "moveName": "Old Benoni Defense",
+    "steps": "1 d4 c5 2 d5 e5"
+  },
+  {
+    "move": "A45",
+    "moveName": "Queen's Pawn Game",
+    "steps": "1 d4 Nf6"
+  },
+  {
+    "move": "A46",
+    "moveName": "Queen's Pawn Game",
+    "steps": "1 d4 Nf6 2 Nf3"
+  },
+  {
+    "move": "A47",
+    "moveName": "Queen's Indian",
+    "steps": "1 d4 Nf6 2 Nf3 b6"
+  },
+  {
+    "move": "A48",
+    "moveName": "King's Indian",
+    "steps": "1 d4 Nf6 2 Nf3 g6"
+  },
+  {
+    "move": "A49",
+    "moveName": "King's Indian, Fianchetto without c4",
+    "steps": "1 d4 Nf6 2 Nf3 g6 3 g3"
+  },
+  {
+    "move": "A50",
+    "moveName": "Queen's Pawn Game",
+    "steps": "1 d4 Nf6 2 c4"
+  },
+  {
+    "move": "A51",
+    "moveName": "Budapest Gambit",
+    "steps": "1 d4 Nf6 2 c4 e5"
+  },
+  {
+    "move": "A52",
+    "moveName": "Budapest Gambit",
+    "steps": "1 d4 Nf6 2 c4 e5 3 dxe5 Ng4"
+  },
+  {
+    "move": "A53",
+    "moveName": "Old Indian",
+    "steps": "1 d4 Nf6 2 c4 d6"
+  },
+  {
+    "move": "A54",
+    "moveName": "Old Indian, Ukrainian Variation, 4.Nf3",
+    "steps": "1 d4 Nf6 2 c4 d6 3 Nc3 e5 4 Nf3"
+  },
+  {
+    "move": "A55",
+    "moveName": "Old Indian, Main line",
+    "steps": "1 d4 Nf6 2 c4 d6 3 Nc3 e5 4 Nf3 Nbd7 5 e4"
+  },
+  {
+    "move": "A56",
+    "moveName": "Benoni Defense",
+    "steps": "1 d4 Nf6 2 c4 c5"
+  },
+  {
+    "move": "A57",
+    "moveName": "Benko Gambit",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 b5"
+  },
+  {
+    "move": "A58",
+    "moveName": "Benko Gambit",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 b5 4 cxb5 a6 5 bxa6"
+  },
+  {
+    "move": "A59",
+    "moveName": "Benko Gambit",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 b5 4 cxb5 a6 5 bxa6 Bxa6 6 Nc3 d6 7 e4"
+  },
+  {
+    "move": "A60",
+    "moveName": "Benoni Defense",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6"
+  },
+  {
+    "move": "A61",
+    "moveName": "Benoni",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6"
+  },
+  {
+    "move": "A62",
+    "moveName": "Benoni, Fianchetto Variation",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3 Bg7 8 Bg2 O-O"
+  },
+  {
+    "move": "A63",
+    "moveName": "Benoni, Fianchetto, 9...Nbd7",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3 Bg7 8 Bg2 O-O 9"
+  },
+  {
+    "move": "A64",
+    "moveName": "Benoni, Fianchetto, 11...Re8",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3 Bg7 8 Bg2 O-O 9"
+  },
+  {
+    "move": "A65",
+    "moveName": "Benoni, 6.e4",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4"
+  },
+  {
+    "move": "A66",
+    "moveName": "Benoni",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4"
+  },
+  {
+    "move": "A67",
+    "moveName": "Benoni, Taimanov Variation",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4 Bg7 8 Bb5+"
+  },
+  {
+    "move": "A68",
+    "moveName": "Benoni, Four Pawns Attack",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4 Bg7 8 Nf3 O-O"
+  },
+  {
+    "move": "A69",
+    "moveName": "Benoni, Four Pawns Attack, Main line",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4 Bg7 8 Nf3 O-O 9"
+  },
+  {
+    "move": "A70",
+    "moveName": "Benoni, Classical with 7.Nf3",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3"
+  },
+  {
+    "move": "A71",
+    "moveName": "Benoni, Classical, 8.Bg5",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Bg5"
+  },
+  {
+    "move": "A72",
+    "moveName": "Benoni, Classical without 9.O-O",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O"
+  },
+  {
+    "move": "A73",
+    "moveName": "Benoni, Classical, 9.O-O",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9"
+  },
+  {
+    "move": "A74",
+    "moveName": "Benoni, Classical, 9...a6, 10.a4",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9"
+  },
+  {
+    "move": "A75",
+    "moveName": "Benoni, Classical with ...a6 and 10...Bg4",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9"
+  },
+  {
+    "move": "A76",
+    "moveName": "Benoni, Classical, 9...Re8",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9"
+  },
+  {
+    "move": "A77",
+    "moveName": "Benoni, Classical, 9...Re8, 10.Nd2",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9"
+  },
+  {
+    "move": "A78",
+    "moveName": "Benoni, Classical with ...Re8 and ...Na6",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9"
+  },
+  {
+    "move": "A79",
+    "moveName": "Benoni, Classical, 11.f3",
+    "steps": "1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9"
+  },
+  {
+    "move": "A80",
+    "moveName": "Dutch",
+    "steps": "1 d4 f5"
+  },
+  {
+    "move": "A81",
+    "moveName": "Dutch",
+    "steps": "1 d4 f5 2 g3"
+  },
+  {
+    "move": "A82",
+    "moveName": "Dutch, Staunton Gambit",
+    "steps": "1 d4 f5 2 e4"
+  },
+  {
+    "move": "A83",
+    "moveName": "Dutch, Staunton Gambit",
+    "steps": "1 d4 f5 2 e4 fxe4 3 Nc3 Nf6 4 Bg5"
+  },
+  {
+    "move": "A84",
+    "moveName": "Dutch",
+    "steps": "1 d4 f5 2 c4"
+  },
+  {
+    "move": "A85",
+    "moveName": "Dutch, with c4 & Nc3",
+    "steps": "1 d4 f5 2 c4 Nf6 3 Nc3"
+  },
+  {
+    "move": "A86",
+    "moveName": "Dutch",
+    "steps": "1 d4 f5 2 c4 Nf6 3 g3"
+  },
+  {
+    "move": "A87",
+    "moveName": "Dutch, Leningrad, Main Variation",
+    "steps": "1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3"
+  },
+  {
+    "move": "A88",
+    "moveName": "Dutch, Leningrad, Main Variation with c6",
+    "steps": "1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3 O-O 6 O-O d6 7 Nc3 c6"
+  },
+  {
+    "move": "A89",
+    "moveName": "Dutch, Leningrad, Main Variation with Nc6",
+    "steps": "1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3 O-O 6 O-O d6 7 Nc3 Nc6"
+  },
+  {
+    "move": "A90",
+    "moveName": "Dutch",
+    "steps": "1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2"
+  },
+  {
+    "move": "A91",
+    "moveName": "Dutch Defense",
+    "steps": "1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7"
+  },
+  {
+    "move": "A92",
+    "moveName": "Dutch",
+    "steps": "1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O"
+  },
+  {
+    "move": "A93",
+    "moveName": "Dutch, Stonewall, Botvinnik Variation",
+    "steps": "1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5 7 b3"
+  },
+  {
+    "move": "A94",
+    "moveName": "Dutch, Stonewall with Ba3",
+    "steps": "1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5 7 b3 c6 8 Ba3"
+  },
+  {
+    "move": "A95",
+    "moveName": "Dutch, Stonewall",
+    "steps": "1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5 7 Nc3 c6"
+  },
+  {
+    "move": "A96",
+    "moveName": "Dutch, Classical Variation",
+    "steps": "1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6"
+  },
+  {
+    "move": "A97",
+    "moveName": "Dutch, Ilyin-Genevsky",
+    "steps": "1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6 7 Nc3 Qe8"
+  },
+  {
+    "move": "A98",
+    "moveName": "Dutch, Ilyin-Genevsky Variation with Qc2",
+    "steps": "1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6 7 Nc3 Qe8 8 Qc2"
+  },
+  {
+    "move": "A99",
+    "moveName": "Dutch, Ilyin-Genevsky Variation with b3",
+    "steps": "1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6 7 Nc3 Qe8 8 b3"
+  },
+  {
+    "move": "B00",
+    "moveName": "Uncommon King's Pawn Opening",
+    "steps": "1 e4"
+  },
+  {
+    "move": "B01",
+    "moveName": "Scandinavian",
+    "steps": "1 e4 d5"
+  },
+  {
+    "move": "B02",
+    "moveName": "Alekhine's Defense",
+    "steps": "1 e4 Nf6"
+  },
+  {
+    "move": "B03",
+    "moveName": "Alekhine's Defense",
+    "steps": "1 e4 Nf6 2 e5 Nd5 3 d4"
+  },
+  {
+    "move": "B04",
+    "moveName": "Alekhine's Defense, Modern",
+    "steps": "1 e4 Nf6 2 e5 Nd5 3 d4 d6 4 Nf3"
+  },
+  {
+    "move": "B05",
+    "moveName": "Alekhine's Defense, Modern",
+    "steps": "1 e4 Nf6 2 e5 Nd5 3 d4 d6 4 Nf3 Bg4"
+  },
+  {
+    "move": "B06",
+    "moveName": "Robatsch",
+    "steps": "1 e4 g6"
+  },
+  {
+    "move": "B07",
+    "moveName": "Pirc",
+    "steps": "1 e4 d6 2 d4 Nf6"
+  },
+  {
+    "move": "B08",
+    "moveName": "Pirc, Classical",
+    "steps": "1 e4 d6 2 d4 Nf6 3 Nc3 g6 4 Nf3"
+  },
+  {
+    "move": "B09",
+    "moveName": "Pirc, Austrian Attack",
+    "steps": "1 e4 d6 2 d4 Nf6 3 Nc3 g6 4 f4"
+  },
+  {
+    "move": "B10",
+    "moveName": "Caro-Kann",
+    "steps": "1 e4 c6"
+  },
+  {
+    "move": "B11",
+    "moveName": "Caro-Kann, Two Knights, 3...Bg4",
+    "steps": "1 e4 c6 2 Nc3 d5 3 Nf3 Bg4"
+  },
+  {
+    "move": "B12",
+    "moveName": "Caro-Kann Defense",
+    "steps": "1 e4 c6 2 d4"
+  },
+  {
+    "move": "B13",
+    "moveName": "Caro-Kann, Exchange",
+    "steps": "1 e4 c6 2 d4 d5 3 exd5 cxd5"
+  },
+  {
+    "move": "B14",
+    "moveName": "Caro-Kann, Panov-Botvinnik Attack",
+    "steps": "1 e4 c6 2 d4 d5 3 exd5 cxd5 4 c4 Nf6 5 Nc3 e6"
+  },
+  {
+    "move": "B15",
+    "moveName": "Caro-Kann",
+    "steps": "1 e4 c6 2 d4 d5 3 Nc3"
+  },
+  {
+    "move": "B16",
+    "moveName": "Caro-Kann, Bronstein-Larsen Variation",
+    "steps": "1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Nf6 5 Nxf6+ gxf6"
+  },
+  {
+    "move": "B17",
+    "moveName": "Caro-Kann, Steinitz Variation",
+    "steps": "1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Nd7"
+  },
+  {
+    "move": "B18",
+    "moveName": "Caro-Kann, Classical",
+    "steps": "1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Bf5"
+  },
+  {
+    "move": "B19",
+    "moveName": "Caro-Kann, Classical",
+    "steps": "1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Bf5 5 Ng3 Bg6 6 h4 h6 7 Nf3 Nd7"
+  },
+  {
+    "move": "B20",
+    "moveName": "Sicilian",
+    "steps": "1 e4 c5"
+  },
+  {
+    "move": "B21",
+    "moveName": "Sicilian, 2.f4 and 2.d4",
+    "steps": "1 e4 c5 2 f4"
+  },
+  {
+    "move": "B22",
+    "moveName": "Sicilian, Alapin",
+    "steps": "1 e4 c5 2 c3"
+  },
+  {
+    "move": "B23",
+    "moveName": "Sicilian, Closed",
+    "steps": "1 e4 c5 2 Nc3"
+  },
+  {
+    "move": "B24",
+    "moveName": "Sicilian, Closed",
+    "steps": "1 e4 c5 2 Nc3 Nc6 3 g3"
+  },
+  {
+    "move": "B25",
+    "moveName": "Sicilian, Closed",
+    "steps": "1 e4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3 d6"
+  },
+  {
+    "move": "B26",
+    "moveName": "Sicilian, Closed, 6.Be3",
+    "steps": "1 e4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3 d6 6 Be3"
+  },
+  {
+    "move": "B27",
+    "moveName": "Sicilian",
+    "steps": "1 e4 c5 2 Nf3"
+  },
+  {
+    "move": "B28",
+    "moveName": "Sicilian, O'Kelly Variation",
+    "steps": "1 e4 c5 2 Nf3 a6"
+  },
+  {
+    "move": "B29",
+    "moveName": "Sicilian, Nimzovich-Rubinstein",
+    "steps": "1 e4 c5 2 Nf3 Nf6"
+  },
+  {
+    "move": "B30",
+    "moveName": "Sicilian",
+    "steps": "1 e4 c5 2 Nf3 Nc6"
+  },
+  {
+    "move": "B31",
+    "moveName": "Sicilian, Rossolimo Variation",
+    "steps": "1 e4 c5 2 Nf3 Nc6 3 Bb5 g6"
+  },
+  {
+    "move": "B32",
+    "moveName": "Sicilian",
+    "steps": "1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 e5"
+  },
+  {
+    "move": "B33",
+    "moveName": "Sicilian",
+    "steps": "1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4"
+  },
+  {
+    "move": "B34",
+    "moveName": "Sicilian, Accelerated Fianchetto",
+    "steps": "1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 Nxc6"
+  },
+  {
+    "move": "B35",
+    "moveName": "Sicilian, Accelerated Fianchetto, Modern Variation with Bc4",
+    "steps": "1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 Nc3 Bg7 6 Be3 Nf6 7 Bc4"
+  },
+  {
+    "move": "B36",
+    "moveName": "Sicilian, Accelerated Fianchetto",
+    "steps": "1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4"
+  },
+  {
+    "move": "B37",
+    "moveName": "Sicilian, Accelerated Fianchetto",
+    "steps": "1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4 Bg7"
+  },
+  {
+    "move": "B38",
+    "moveName": "Sicilian, Accelerated Fianchetto, Maroczy Bind, 6.Be3",
+    "steps": "1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4 Bg7 6 Be3"
+  },
+  {
+    "move": "B39",
+    "moveName": "Sicilian, Accelerated Fianchetto, Breyer Variation",
+    "steps": "1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4 Bg7 6 Be3 Nf6 7 Nc3 Ng4"
+  },
+  {
+    "move": "B40",
+    "moveName": "Sicilian",
+    "steps": "1 e4 c5 2 Nf3 e6"
+  },
+  {
+    "move": "B41",
+    "moveName": "Sicilian, Kan",
+    "steps": "1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 a6"
+  },
+  {
+    "move": "B42",
+    "moveName": "Sicilian, Kan",
+    "steps": "1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 a6 5 Bd3"
+  },
+  {
+    "move": "B43",
+    "moveName": "Sicilian, Kan, 5.Nc3",
+    "steps": "1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 a6 5 Nc3"
+  },
+  {
+    "move": "B44",
+    "moveName": "Sicilian",
+    "steps": "1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6"
+  },
+  {
+    "move": "B45",
+    "moveName": "Sicilian, Taimanov",
+    "steps": "1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3"
+  },
+  {
+    "move": "B46",
+    "moveName": "Sicilian, Taimanov Variation",
+    "steps": "1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 a6"
+  },
+  {
+    "move": "B47",
+    "moveName": "Sicilian, Taimanov (Bastrikov) Variation",
+    "steps": "1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 Qc7"
+  },
+  {
+    "move": "B48",
+    "moveName": "Sicilian, Taimanov Variation",
+    "steps": "1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 Qc7 6 Be3"
+  },
+  {
+    "move": "B49",
+    "moveName": "Sicilian, Taimanov Variation",
+    "steps": "1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 Qc7 6 Be3 a6 7 Be2"
+  },
+  {
+    "move": "B50",
+    "moveName": "Sicilian",
+    "steps": "1 e4 c5 2 Nf3 d6"
+  },
+  {
+    "move": "B51",
+    "moveName": "Sicilian, Canal-Sokolsky (Rossolimo) Attack",
+    "steps": "1 e4 c5 2 Nf3 d6 3 Bb5+"
+  },
+  {
+    "move": "B52",
+    "moveName": "Sicilian, Canal-Sokolsky (Rossolimo) Attack",
+    "steps": "1 e4 c5 2 Nf3 d6 3 Bb5+ Bd7"
+  },
+  {
+    "move": "B53",
+    "moveName": "Sicilian",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Qxd4"
+  },
+  {
+    "move": "B54",
+    "moveName": "Sicilian",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4"
+  },
+  {
+    "move": "B55",
+    "moveName": "Sicilian, Prins Variation, Venice Attack",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 f3 e5 6 Bb5+"
+  },
+  {
+    "move": "B56",
+    "moveName": "Sicilian",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3"
+  },
+  {
+    "move": "B57",
+    "moveName": "Sicilian",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bc4"
+  },
+  {
+    "move": "B58",
+    "moveName": "Sicilian",
+    "steps": "1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 d6 6 Be2"
+  },
+  {
+    "move": "B59",
+    "moveName": "Sicilian, Boleslavsky Variation, 7.Nb3",
+    "steps": "1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 d6 6 Be2 e5 7 Nb3"
+  },
+  {
+    "move": "B60",
+    "moveName": "Sicilian, Richter-Rauzer",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5"
+  },
+  {
+    "move": "B61",
+    "moveName": "Sicilian, Richter-Rauzer, Larsen Variation, 7.Qd2",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 Bd7 7 Qd2"
+  },
+  {
+    "move": "B62",
+    "moveName": "Sicilian, Richter-Rauzer",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6"
+  },
+  {
+    "move": "B63",
+    "moveName": "Sicilian, Richter-Rauzer Attack",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2"
+  },
+  {
+    "move": "B64",
+    "moveName": "Sicilian, Richter-Rauzer Attack",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 Be7 8 O-O-O O-O 9 f4"
+  },
+  {
+    "move": "B65",
+    "moveName": "Sicilian, Richter-Rauzer Attack, 7...Be7 Defense, 9...Nxd4",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 Be7 8 O-O-O O-O 9 f4 Nxd4 10 Qxd4"
+  },
+  {
+    "move": "B66",
+    "moveName": "Sicilian, Richter-Rauzer Attack, 7...a6",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6"
+  },
+  {
+    "move": "B67",
+    "moveName": "Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 8...Bd7",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7"
+  },
+  {
+    "move": "B68",
+    "moveName": "Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 9...Be7",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7 9 f4 Be7"
+  },
+  {
+    "move": "B69",
+    "moveName": "Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 11.Bxf6",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7 9 f4 Be7 10 Nf3 b5 11 Bxf6"
+  },
+  {
+    "move": "B70",
+    "moveName": "Sicilian, Dragon Variation",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6"
+  },
+  {
+    "move": "B71",
+    "moveName": "Sicilian, Dragon, Levenfish Variation",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 f4"
+  },
+  {
+    "move": "B72",
+    "moveName": "Sicilian, Dragon",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3"
+  },
+  {
+    "move": "B73",
+    "moveName": "Sicilian, Dragon, Classical",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 Be2 Nc6 8 O-O"
+  },
+  {
+    "move": "B74",
+    "moveName": "Sicilian, Dragon, Classical",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 Be2 Nc6 8 O-O O-O 9 Nb3"
+  },
+  {
+    "move": "B75",
+    "moveName": "Sicilian, Dragon, Yugoslav Attack",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3"
+  },
+  {
+    "move": "B76",
+    "moveName": "Sicilian, Dragon, Yugoslav Attack",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O"
+  },
+  {
+    "move": "B77",
+    "moveName": "Sicilian, Dragon, Yugoslav Attack",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4"
+  },
+  {
+    "move": "B78",
+    "moveName": "Sicilian, Dragon, Yugoslav Attack, 10.castle long",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4 Bd7 10 O-O-O"
+  },
+  {
+    "move": "B79",
+    "moveName": "Sicilian, Dragon, Yugoslav Attack, 12.h4",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4 Bd7 10 O-O-O Qa5 11 Bb3 Rfc8 12 h4"
+  },
+  {
+    "move": "B80",
+    "moveName": "Sicilian, Scheveningen",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6"
+  },
+  {
+    "move": "B81",
+    "moveName": "Sicilian, Scheveningen, Keres Attack",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 g4"
+  },
+  {
+    "move": "B82",
+    "moveName": "Sicilian, Scheveningen",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 f4"
+  },
+  {
+    "move": "B83",
+    "moveName": "Sicilian",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2"
+  },
+  {
+    "move": "B84",
+    "moveName": "Sicilian, Scheveningen",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2 a6"
+  },
+  {
+    "move": "B85",
+    "moveName": "Sicilian, Scheveningen, Classical",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2 a6 7 O-O Qc7 8 f4 Nc6"
+  },
+  {
+    "move": "B86",
+    "moveName": "Sicilian, Fischer-Sozin Attack",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4"
+  },
+  {
+    "move": "B87",
+    "moveName": "Sicilian, Fischer-Sozin with ...a6 and ...b5",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4 a6 7 Bb3 b5"
+  },
+  {
+    "move": "B88",
+    "moveName": "Sicilian, Fischer-Sozin Attack",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4 Nc6"
+  },
+  {
+    "move": "B89",
+    "moveName": "Sicilian",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4 Nc6 7 Be3"
+  },
+  {
+    "move": "B90",
+    "moveName": "Sicilian, Najdorf",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6"
+  },
+  {
+    "move": "B91",
+    "moveName": "Sicilian, Najdorf, Zagreb (Fianchetto) Variation",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 g3"
+  },
+  {
+    "move": "B92",
+    "moveName": "Sicilian, Najdorf, Opocensky Variation",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Be2"
+  },
+  {
+    "move": "B93",
+    "moveName": "Sicilian, Najdorf, 6.f4",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 f4"
+  },
+  {
+    "move": "B94",
+    "moveName": "Sicilian, Najdorf",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5"
+  },
+  {
+    "move": "B95",
+    "moveName": "Sicilian, Najdorf, 6...e6",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6"
+  },
+  {
+    "move": "B96",
+    "moveName": "Sicilian, Najdorf",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4"
+  },
+  {
+    "move": "B97",
+    "moveName": "Sicilian, Najdorf",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Qb6"
+  },
+  {
+    "move": "B98",
+    "moveName": "Sicilian, Najdorf",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Be7"
+  },
+  {
+    "move": "B99",
+    "moveName": "Sicilian, Najdorf, 7...Be7 Main line",
+    "steps": "1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Be7 8 Qf3 Qc7 9 O-O-O Nbd7"
+  },
+  {
+    "move": "C00",
+    "moveName": "French Defense",
+    "steps": "1 e4 e6"
+  },
+  {
+    "move": "C01",
+    "moveName": "French, Exchange",
+    "steps": "1 e4 e6 2 d4 d5 3 exd5 exd5 4 Nc3 Nf6 5 Bg5"
+  },
+  {
+    "move": "C02",
+    "moveName": "French, Advance",
+    "steps": "1 e4 e6 2 d4 d5 3 e5"
+  },
+  {
+    "move": "C03",
+    "moveName": "French, Tarrasch",
+    "steps": "1 e4 e6 2 d4 d5 3 Nd2"
+  },
+  {
+    "move": "C04",
+    "moveName": "French, Tarrasch, Guimard Main line",
+    "steps": "1 e4 e6 2 d4 d5 3 Nd2 Nc6 4 Ngf3 Nf6"
+  },
+  {
+    "move": "C05",
+    "moveName": "French, Tarrasch",
+    "steps": "1 e4 e6 2 d4 d5 3 Nd2 Nf6"
+  },
+  {
+    "move": "C06",
+    "moveName": "French, Tarrasch",
+    "steps": "1 e4 e6 2 d4 d5 3 Nd2 Nf6 4 e5 Nfd7 5 Bd3 c5 6 c3 Nc6 7 Ne2 cxd4 8 cxd4"
+  },
+  {
+    "move": "C07",
+    "moveName": "French, Tarrasch",
+    "steps": "1 e4 e6 2 d4 d5 3 Nd2 c5"
+  },
+  {
+    "move": "C08",
+    "moveName": "French, Tarrasch, Open, 4.ed ed",
+    "steps": "1 e4 e6 2 d4 d5 3 Nd2 c5 4 exd5 exd5"
+  },
+  {
+    "move": "C09",
+    "moveName": "French, Tarrasch, Open Variation, Main line",
+    "steps": "1 e4 e6 2 d4 d5 3 Nd2 c5 4 exd5 exd5 5 Ngf3 Nc6"
+  },
+  {
+    "move": "C10",
+    "moveName": "French",
+    "steps": "1 e4 e6 2 d4 d5 3 Nc3"
+  },
+  {
+    "move": "C11",
+    "moveName": "French",
+    "steps": "1 e4 e6 2 d4 d5 3 Nc3 Nf6"
+  },
+  {
+    "move": "C12",
+    "moveName": "French, McCutcheon",
+    "steps": "1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Bb4"
+  },
+  {
+    "move": "C13",
+    "moveName": "French",
+    "steps": "1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Be7"
+  },
+  {
+    "move": "C14",
+    "moveName": "French, Classical",
+    "steps": "1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Be7 5 e5 Nfd7 6 Bxe7 Qxe7"
+  },
+  {
+    "move": "C15",
+    "moveName": "French, Winawer",
+    "steps": "1 e4 e6 2 d4 d5 3 Nc3 Bb4"
+  },
+  {
+    "move": "C16",
+    "moveName": "French, Winawer",
+    "steps": "1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5"
+  },
+  {
+    "move": "C17",
+    "moveName": "French, Winawer, Advance",
+    "steps": "1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5 c5"
+  },
+  {
+    "move": "C18",
+    "moveName": "French, Winawer",
+    "steps": "1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5 c5 5 a3 Bxc3+ 6 bxc3"
+  },
+  {
+    "move": "C19",
+    "moveName": "French, Winawer, Advance",
+    "steps": "1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5 c5 5 a3 Bxc3+ 6 bxc3 Ne7"
+  },
+  {
+    "move": "C20",
+    "moveName": "King's Pawn Game",
+    "steps": "1 e4 e5"
+  },
+  {
+    "move": "C21",
+    "moveName": "Center Game",
+    "steps": "1 e4 e5 2 d4 exd4"
+  },
+  {
+    "move": "C22",
+    "moveName": "Center Game",
+    "steps": "1 e4 e5 2 d4 exd4 3 Qxd4 Nc6"
+  },
+  {
+    "move": "C23",
+    "moveName": "Bishop's Opening",
+    "steps": "1 e4 e5 2 Bc4"
+  },
+  {
+    "move": "C24",
+    "moveName": "Bishop's Opening",
+    "steps": "1 e4 e5 2 Bc4 Nf6"
+  },
+  {
+    "move": "C25",
+    "moveName": "Vienna",
+    "steps": "1 e4 e5 2 Nc3"
+  },
+  {
+    "move": "C26",
+    "moveName": "Vienna",
+    "steps": "1 e4 e5 2 Nc3 Nf6"
+  },
+  {
+    "move": "C27",
+    "moveName": "Vienna Game",
+    "steps": "1 e4 e5 2 Nc3 Nf6 3 Bc4 Nxe4"
+  },
+  {
+    "move": "C28",
+    "moveName": "Vienna Game",
+    "steps": "1 e4 e5 2 Nc3 Nf6 3 Bc4 Nc6"
+  },
+  {
+    "move": "C29",
+    "moveName": "Vienna Gambit",
+    "steps": "1 e4 e5 2 Nc3 Nf6 3 f4"
+  },
+  {
+    "move": "C30",
+    "moveName": "King's Gambit Declined",
+    "steps": "1 e4 e5 2 f4"
+  },
+  {
+    "move": "C31",
+    "moveName": "King's Gambit Declined, Falkbeer Counter Gambit",
+    "steps": "1 e4 e5 2 f4 d5"
+  },
+  {
+    "move": "C32",
+    "moveName": "King's Gambit Declined, Falkbeer Counter Gambit",
+    "steps": "1 e4 e5 2 f4 d5 3 exd5 e4 4 d3 Nf6 "
+  },
+  {
+    "move": "C33",
+    "moveName": "King's Gambit Accepted",
+    "steps": "1 e4 e5 2 f4 exf4"
+  },
+  {
+    "move": "C34",
+    "moveName": "King's Gambit Accepted",
+    "steps": "1 e4 e5 2 f4 exf4 3 Nf3"
+  },
+  {
+    "move": "C35",
+    "moveName": "King's Gambit Accepted, Cunningham",
+    "steps": "1 e4 e5 2 f4 exf4 3 Nf3 Be7"
+  },
+  {
+    "move": "C36",
+    "moveName": "King's Gambit Accepted, Abbazia Defense",
+    "steps": "1 e4 e5 2 f4 exf4 3 Nf3 d5"
+  },
+  {
+    "move": "C37",
+    "moveName": "King's Gambit Accepted",
+    "steps": "1 e4 e5 2 f4 exf4 3 Nf3 g5 4 Nc3"
+  },
+  {
+    "move": "C38",
+    "moveName": "King's Gambit Accepted",
+    "steps": "1 e4 e5 2 f4 exf4 3 Nf3 g5 4 Bc4 Bg7"
+  },
+  {
+    "move": "C39",
+    "moveName": "King's Gambit Accepted",
+    "steps": "1 e4 e5 2 f4 exf4 3 Nf3 g5 4 h4"
+  },
+  {
+    "move": "C40",
+    "moveName": "King's Knight Opening",
+    "steps": "1 e4 e5 2 Nf3"
+  },
+  {
+    "move": "C41",
+    "moveName": "Philidor Defense",
+    "steps": "1 e4 e5 2 Nf3 d6"
+  },
+  {
+    "move": "C42",
+    "moveName": "Petrov Defense",
+    "steps": "1 e4 e5 2 Nf3 Nf6"
+  },
+  {
+    "move": "C43",
+    "moveName": "Petrov, Modern Attack",
+    "steps": "1 e4 e5 2 Nf3 Nf6 3 d4 exd4 4 e5 Ne4 5 Qxd4"
+  },
+  {
+    "move": "C44",
+    "moveName": "King's Pawn Game",
+    "steps": "1 e4 e5 2 Nf3 Nc6"
+  },
+  {
+    "move": "C45",
+    "moveName": "Scotch Game",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 d4 exd4 4 Nxd4"
+  },
+  {
+    "move": "C46",
+    "moveName": "Three Knights",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Nc3"
+  },
+  {
+    "move": "C47",
+    "moveName": "Four Knights",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Nc3 Nf6"
+  },
+  {
+    "move": "C48",
+    "moveName": "Four Knights",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Nc3 Nf6 4 Bb5"
+  },
+  {
+    "move": "C49",
+    "moveName": "Four Knights",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Nc3 Nf6 4 Bb5 Bb4"
+  },
+  {
+    "move": "C50",
+    "moveName": "Giuoco Piano",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5"
+  },
+  {
+    "move": "C51",
+    "moveName": "Evans Gambit",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 b4 "
+  },
+  {
+    "move": "C52",
+    "moveName": "Evans Gambit",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 b4 Bxb4 5 c3 Ba5"
+  },
+  {
+    "move": "C53",
+    "moveName": "Giuoco Piano",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 c3"
+  },
+  {
+    "move": "C54",
+    "moveName": "Giuoco Piano",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 c3 Nf6 5 d4 exd4 6 cxd4"
+  },
+  {
+    "move": "C55",
+    "moveName": "Two Knights Defense",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6"
+  },
+  {
+    "move": "C56",
+    "moveName": "Two Knights",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 d4 exd4 5 O-O Nxe4"
+  },
+  {
+    "move": "C57",
+    "moveName": "Two Knights",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5"
+  },
+  {
+    "move": "C58",
+    "moveName": "Two Knights",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5 d5 5 exd5 Na5"
+  },
+  {
+    "move": "C59",
+    "moveName": "Two Knights",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5 d5 5 exd5 Na5 6 Bb5+ c6 7 dxc6 bxc6 8 Be2 h6"
+  },
+  {
+    "move": "C60",
+    "moveName": "Ruy Lopez",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5"
+  },
+  {
+    "move": "C61",
+    "moveName": "Ruy Lopez, Bird's Defense",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 Nd4"
+  },
+  {
+    "move": "C62",
+    "moveName": "Ruy Lopez, Old Steinitz Defense",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 d6"
+  },
+  {
+    "move": "C63",
+    "moveName": "Ruy Lopez, Schliemann Defense",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 f5"
+  },
+  {
+    "move": "C64",
+    "moveName": "Ruy Lopez, Classical",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 Bc5"
+  },
+  {
+    "move": "C65",
+    "moveName": "Ruy Lopez, Berlin Defense",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6"
+  },
+  {
+    "move": "C66",
+    "moveName": "Ruy Lopez",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 4 O-O d6"
+  },
+  {
+    "move": "C67",
+    "moveName": "Ruy Lopez",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 4 O-O Nxe4"
+  },
+  {
+    "move": "C68",
+    "moveName": "Ruy Lopez, Exchange",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Bxc6"
+  },
+  {
+    "move": "C69",
+    "moveName": "Ruy Lopez, Exchange, Gligoric Variation",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Bxc6 dc 5 O-O f6 "
+  },
+  {
+    "move": "C70",
+    "moveName": "Ruy Lopez",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4"
+  },
+  {
+    "move": "C71",
+    "moveName": "Ruy Lopez",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6"
+  },
+  {
+    "move": "C72",
+    "moveName": "Ruy Lopez, Modern Steinitz Defense, 5.O-O",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 O-O"
+  },
+  {
+    "move": "C73",
+    "moveName": "Ruy Lopez, Modern Steinitz Defense",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 Bxc6+ bxc6 6 d4"
+  },
+  {
+    "move": "C74",
+    "moveName": "Ruy Lopez, Modern Steinitz Defense",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 c3"
+  },
+  {
+    "move": "C75",
+    "moveName": "Ruy Lopez, Modern Steinitz Defense",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 c3 Bd7"
+  },
+  {
+    "move": "C76",
+    "moveName": "Ruy Lopez, Modern Steinitz Defense, Fianchetto Variation",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 c3 Bd7 6 d4 g6"
+  },
+  {
+    "move": "C77",
+    "moveName": "Ruy Lopez",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6"
+  },
+  {
+    "move": "C78",
+    "moveName": "Ruy Lopez",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O"
+  },
+  {
+    "move": "C79",
+    "moveName": "Ruy Lopez, Steinitz Defense Deferred",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O d6"
+  },
+  {
+    "move": "C80",
+    "moveName": "Ruy Lopez, Open",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4"
+  },
+  {
+    "move": "C81",
+    "moveName": "Ruy Lopez, Open, Howell Attack",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3 d5 8 dxe5 Be6 9 Qe2"
+  },
+  {
+    "move": "C82",
+    "moveName": "Ruy Lopez, Open",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3 d5 8 dxe5 Be6 9 c3"
+  },
+  {
+    "move": "C83",
+    "moveName": "Ruy Lopez, Open",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3 d5 8 dxe5 Be6"
+  },
+  {
+    "move": "C84",
+    "moveName": "Ruy Lopez, Closed",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7"
+  },
+  {
+    "move": "C85",
+    "moveName": "Ruy Lopez, Exchange Variation Doubly Deferred (DERLD)",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Bxc6 dxc6"
+  },
+  {
+    "move": "C86",
+    "moveName": "Ruy Lopez, Worrall Attack",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Qe2"
+  },
+  {
+    "move": "C87",
+    "moveName": "Ruy Lopez",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 d6"
+  },
+  {
+    "move": "C88",
+    "moveName": "Ruy Lopez",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3"
+  },
+  {
+    "move": "C89",
+    "moveName": "Ruy Lopez, Marshall",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d5"
+  },
+  {
+    "move": "C90",
+    "moveName": "Ruy Lopez, Closed",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6"
+  },
+  {
+    "move": "C91",
+    "moveName": "Ruy Lopez, Closed",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 d4"
+  },
+  {
+    "move": "C92",
+    "moveName": "Ruy Lopez, Closed",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3"
+  },
+  {
+    "move": "C93",
+    "moveName": "Ruy Lopez, Closed, Smyslov Defense",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 h6"
+  },
+  {
+    "move": "C94",
+    "moveName": "Ruy Lopez, Closed, Breyer Defense",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Nb8"
+  },
+  {
+    "move": "C95",
+    "moveName": "Ruy Lopez, Closed, Breyer",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Nb8 10 d4"
+  },
+  {
+    "move": "C96",
+    "moveName": "Ruy Lopez, Closed",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2"
+  },
+  {
+    "move": "C97",
+    "moveName": "Ruy Lopez, Closed, Chigorin",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4 Qc7"
+  },
+  {
+    "move": "C98",
+    "moveName": "Ruy Lopez, Closed, Chigorin",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4 Qc7 12 Nbd2 Nc6"
+  },
+  {
+    "move": "C99",
+    "moveName": "Ruy Lopez, Closed, Chigorin, 12...cd",
+    "steps": "1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4 Qc7 12 Nbd2 cxd4 13 cxd4"
+  },
+  {
+    "move": "D00",
+    "moveName": "Queen's Pawn Game",
+    "steps": "1 d4 d5"
+  },
+  {
+    "move": "D01",
+    "moveName": "Richter-Veresov Attack",
+    "steps": "1 d4 d5 2 Nc3 Nf6 3 Bg5"
+  },
+  {
+    "move": "D02",
+    "moveName": "Queen's Pawn Game",
+    "steps": "1 d4 d5 2 Nf3"
+  },
+  {
+    "move": "D03",
+    "moveName": "Torre Attack (Tartakower Variation)",
+    "steps": "1 d4 d5 2 Nf3 Nf6 3 Bg5"
+  },
+  {
+    "move": "D04",
+    "moveName": "Queen's Pawn Game",
+    "steps": "1 d4 d5 2 Nf3 Nf6 3 e3"
+  },
+  {
+    "move": "D05",
+    "moveName": "Queen's Pawn Game",
+    "steps": "1 d4 d5 2 Nf3 Nf6 3 e3 e6"
+  },
+  {
+    "move": "D06",
+    "moveName": "Queen's Gambit Declined",
+    "steps": "1 d4 d5 2 c4"
+  },
+  {
+    "move": "D07",
+    "moveName": "Queen's Gambit Declined, Chigorin Defense",
+    "steps": "1 d4 d5 2 c4 Nc6"
+  },
+  {
+    "move": "D08",
+    "moveName": "Queen's Gambit Declined, Albin Counter Gambit",
+    "steps": "1 d4 d5 2 c4 e5"
+  },
+  {
+    "move": "D09",
+    "moveName": "Queen's Gambit Declined, Albin Counter Gambit, 5.g3",
+    "steps": "1 d4 d5 2 c4 e5 3 dxe5 d4 4 Nf3 Nc6 5 g3"
+  },
+  {
+    "move": "D10",
+    "moveName": "Queen's Gambit Declined Slav",
+    "steps": "1 d4 d5 2 c4 c6"
+  },
+  {
+    "move": "D11",
+    "moveName": "Queen's Gambit Declined Slav",
+    "steps": "1 d4 d5 2 c4 c6 3 Nf3"
+  },
+  {
+    "move": "D12",
+    "moveName": "Queen's Gambit Declined Slav",
+    "steps": "1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 e3 Bf5"
+  },
+  {
+    "move": "D13",
+    "moveName": "Queen's Gambit Declined Slav, Exchange Variation",
+    "steps": "1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 cxd5 cxd5"
+  },
+  {
+    "move": "D14",
+    "moveName": "Queen's Gambit Declined Slav, Exchange Variation",
+    "steps": "1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 cxd5 cxd5 5 Nc3 Nc6 6 Bf4 Bf5"
+  },
+  {
+    "move": "D15",
+    "moveName": "Queen's Gambit Declined Slav",
+    "steps": "1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3"
+  },
+  {
+    "move": "D16",
+    "moveName": "Queen's Gambit Declined Slav",
+    "steps": "1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4"
+  },
+  {
+    "move": "D17",
+    "moveName": "Queen's Gambit Declined Slav",
+    "steps": "1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5"
+  },
+  {
+    "move": "D18",
+    "moveName": "Queen's Gambit Declined Slav, Dutch",
+    "steps": "1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5 6 e3"
+  },
+  {
+    "move": "D19",
+    "moveName": "Queen's Gambit Declined Slav, Dutch",
+    "steps": "1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5 6 e3 e6 7 Bxc4 Bb4 8 O-O O-O 9 Qe2"
+  },
+  {
+    "move": "D20",
+    "moveName": "Queen's Gambit Accepted",
+    "steps": "1 d4 d5 2 c4 dxc4"
+  },
+  {
+    "move": "D21",
+    "moveName": "Queen's Gambit Accepted",
+    "steps": "1 d4 d5 2 c4 dxc4 3 Nf3"
+  },
+  {
+    "move": "D22",
+    "moveName": "Queen's Gambit Accepted",
+    "steps": "1 d4 d5 2 c4 dxc4 3 Nf3 a6 4 e3 Bg4 5 Bxc4 e6 6 d5"
+  },
+  {
+    "move": "D23",
+    "moveName": "Queen's Gambit Accepted",
+    "steps": "1 d4 d5 2 c4 dxc4 3 Nf3 Nf6"
+  },
+  {
+    "move": "D24",
+    "moveName": "Queen's Gambit Accepted",
+    "steps": "1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 Nc3"
+  },
+  {
+    "move": "D25",
+    "moveName": "Queen's Gambit Accepted",
+    "steps": "1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3"
+  },
+  {
+    "move": "D26",
+    "moveName": "Queen's Gambit Accepted",
+    "steps": "1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6"
+  },
+  {
+    "move": "D27",
+    "moveName": "Queen's Gambit Accepted, Classical",
+    "steps": "1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6"
+  },
+  {
+    "move": "D28",
+    "moveName": "Queen's Gambit Accepted, Classical",
+    "steps": "1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6 7 Qe2"
+  },
+  {
+    "move": "D29",
+    "moveName": "Queen's Gambit Accepted, Classical",
+    "steps": "1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6 7 Qe2 b5 8 Bb3 Bb7"
+  },
+  {
+    "move": "D30",
+    "moveName": "Queen's Gambit Declined",
+    "steps": "1 d4 d5 2 c4 e6"
+  },
+  {
+    "move": "D31",
+    "moveName": "Queen's Gambit Declined",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3"
+  },
+  {
+    "move": "D32",
+    "moveName": "Queen's Gambit Declined, Tarrasch",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 c5"
+  },
+  {
+    "move": "D33",
+    "moveName": "Queen's Gambit Declined, Tarrasch",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 c5 4 cxd5 exd5 5 Nf3 Nc6 6 g3"
+  },
+  {
+    "move": "D34",
+    "moveName": "Queen's Gambit Declined, Tarrasch",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 c5 4 cxd5 exd5 5 Nf3 Nc6 6 g3 Nf6 7 Bg2 Be7"
+  },
+  {
+    "move": "D35",
+    "moveName": "Queen's Gambit Declined",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6"
+  },
+  {
+    "move": "D36",
+    "moveName": "Queen's Gambit Declined, Exchange, Positional line, 6.Qc2",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 cxd5 exd5 5 Bg5 c6 6 Qc2"
+  },
+  {
+    "move": "D37",
+    "moveName": "Queen's Gambit Declined",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3"
+  },
+  {
+    "move": "D38",
+    "moveName": "Queen's Gambit Declined, Ragozin Variation",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 Bb4"
+  },
+  {
+    "move": "D39",
+    "moveName": "Queen's Gambit Declined, Ragozin, Vienna Variation",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 Bb4 5 Bg5 dxc4"
+  },
+  {
+    "move": "D40",
+    "moveName": "Queen's Gambit Declined, Semi-Tarrasch",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5"
+  },
+  {
+    "move": "D41",
+    "moveName": "Queen's Gambit Declined, Semi-Tarrasch",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5 5 cxd5"
+  },
+  {
+    "move": "D42",
+    "moveName": "Queen's Gambit Declined, Semi-Tarrasch, 7.Bd3",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5 5 cxd5 Nxd5 6 e3 Nc6 7 Bd3"
+  },
+  {
+    "move": "D43",
+    "moveName": "Queen's Gambit Declined Semi-Slav",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6"
+  },
+  {
+    "move": "D44",
+    "moveName": "Queen's Gambit Declined Semi-Slav",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 Bg5 dxc4"
+  },
+  {
+    "move": "D45",
+    "moveName": "Queen's Gambit Declined Semi-Slav",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3"
+  },
+  {
+    "move": "D46",
+    "moveName": "Queen's Gambit Declined Semi-Slav",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3"
+  },
+  {
+    "move": "D47",
+    "moveName": "Queen's Gambit Declined Semi-Slav",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4"
+  },
+  {
+    "move": "D48",
+    "moveName": "Queen's Gambit Declined Semi-Slav, Meran",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4 b5 8 Bd3 a6"
+  },
+  {
+    "move": "D49",
+    "moveName": "Queen's Gambit Declined Semi-Slav, Meran",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4 b5 8 Bd3 a6 9 e4 c5 10 e5 cxd4 11 Nxb5 "
+  },
+  {
+    "move": "D50",
+    "moveName": "Queen's Gambit Declined",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5"
+  },
+  {
+    "move": "D51",
+    "moveName": "Queen's Gambit Declined",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Nbd7"
+  },
+  {
+    "move": "D52",
+    "moveName": "Queen's Gambit Declined",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Nbd7 5 e3 c6 6 Nf3"
+  },
+  {
+    "move": "D53",
+    "moveName": "Queen's Gambit Declined",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7"
+  },
+  {
+    "move": "D54",
+    "moveName": "Queen's Gambit Declined, Anti-Neo-Orthodox Variation",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Rc1"
+  },
+  {
+    "move": "D55",
+    "moveName": "Queen's Gambit Declined",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3"
+  },
+  {
+    "move": "D56",
+    "moveName": "Queen's Gambit Declined",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4"
+  },
+  {
+    "move": "D57",
+    "moveName": "Queen's Gambit Declined, Lasker Defense",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 Ne4 8 Bxe7 Qxe7"
+  },
+  {
+    "move": "D58",
+    "moveName": "Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 b6"
+  },
+  {
+    "move": "D59",
+    "moveName": "Queen's Gambit Declined, Tartakower",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 b6 8 cxd5 Nxd5"
+  },
+  {
+    "move": "D60",
+    "moveName": "Queen's Gambit Declined, Orthodox Defense",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7"
+  },
+  {
+    "move": "D61",
+    "moveName": "Queen's Gambit Declined, Orthodox, Rubinstein Attack",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Qc2"
+  },
+  {
+    "move": "D62",
+    "moveName": "Queen's Gambit Declined, Orthodox, Rubinstein Attack",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Qc2 c5 8 cxd5"
+  },
+  {
+    "move": "D63",
+    "moveName": "Queen's Gambit Declined, Orthodox Defense",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1"
+  },
+  {
+    "move": "D64",
+    "moveName": "Queen's Gambit Declined, Orthodox, Rubinstein Attack",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Qc2"
+  },
+  {
+    "move": "D65",
+    "moveName": "Queen's Gambit Declined, Orthodox, Rubinstein Attack, Main line",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Qc2 a6 9 cxd5"
+  },
+  {
+    "move": "D66",
+    "moveName": "Queen's Gambit Declined, Orthodox Defense, Bd3 line",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3"
+  },
+  {
+    "move": "D67",
+    "moveName": "Queen's Gambit Declined, Orthodox Defense, Bd3 line",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3 dxc4 9 Bxc4 Nd5"
+  },
+  {
+    "move": "D68",
+    "moveName": "Queen's Gambit Declined, Orthodox Defense, Classical",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3 dxc4"
+  },
+  {
+    "move": "D69",
+    "moveName": "Queen's Gambit Declined, Orthodox Defense, Classical, 13.de",
+    "steps": "1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3 dxc4"
+  },
+  {
+    "move": "D70",
+    "moveName": "Neo-Grunfeld Defense",
+    "steps": "1 d4 Nf6 2 c4 g6 3 f3 d5"
+  },
+  {
+    "move": "D71",
+    "moveName": "Neo-Grunfeld",
+    "steps": "1 d4 Nf6 2 c4 g6 3 g3 d5"
+  },
+  {
+    "move": "D72",
+    "moveName": "Neo-Grunfeld, 5.cd, Main line",
+    "steps": "1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 cxd5 Nxd5 6 e4 Nb6 7 Ne2"
+  },
+  {
+    "move": "D73",
+    "moveName": "Neo-Grunfeld, 5.Nf3",
+    "steps": "1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3"
+  },
+  {
+    "move": "D74",
+    "moveName": "Neo-Grunfeld, 6.cd Nxd5, 7.O-O",
+    "steps": "1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5 Nxd5 7 O-O"
+  },
+  {
+    "move": "D75",
+    "moveName": "Neo-Grunfeld, 6.cd Nxd5, 7.O-O c5, 8.dxc5",
+    "steps": "1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5 Nxd5 7 O-O c5 8 dxc5"
+  },
+  {
+    "move": "D76",
+    "moveName": "Neo-Grunfeld, 6.cd Nxd5, 7.O-O Nb6",
+    "steps": "1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5 Nxd5 7 O-O Nb6"
+  },
+  {
+    "move": "D77",
+    "moveName": "Neo-Grunfeld, 6.O-O",
+    "steps": "1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 O-O"
+  },
+  {
+    "move": "D78",
+    "moveName": "Neo-Grunfeld, 6.O-O c6",
+    "steps": "1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 O-O c6"
+  },
+  {
+    "move": "D79",
+    "moveName": "Neo-Grunfeld, 6.O-O, Main line",
+    "steps": "1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 O-O c6 7 cxd5 cxd5"
+  },
+  {
+    "move": "D80",
+    "moveName": "Grunfeld",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5"
+  },
+  {
+    "move": "D81",
+    "moveName": "Grunfeld, Russian Variation",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Qb3"
+  },
+  {
+    "move": "D82",
+    "moveName": "Grunfeld, 4.Bf4",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4"
+  },
+  {
+    "move": "D83",
+    "moveName": "Grunfeld, Grunfeld Gambit",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4 Bg7 5 e3 O-O"
+  },
+  {
+    "move": "D84",
+    "moveName": "Grunfeld, Grunfeld Gambit Accepted",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4 Bg7 5 e3 O-O 6 cxd5 Nxd5 7 Nxd5 Qxd5 8 Bxc7"
+  },
+  {
+    "move": "D85",
+    "moveName": "Grunfeld",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5"
+  },
+  {
+    "move": "D86",
+    "moveName": "Grunfeld, Exchange",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4"
+  },
+  {
+    "move": "D87",
+    "moveName": "Grunfeld, Exchange",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4 O-O 8 Ne2 c5"
+  },
+  {
+    "move": "D88",
+    "moveName": "Grunfeld, Spassky Variation, Main line, 10...cd, 11.cd",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4 O-O 8 Ne2"
+  },
+  {
+    "move": "D89",
+    "moveName": "Grunfeld",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4 O-O 8 Ne2"
+  },
+  {
+    "move": "D90",
+    "moveName": "Grunfeld",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3"
+  },
+  {
+    "move": "D91",
+    "moveName": "Grunfeld, 5.Bg5",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Bg5"
+  },
+  {
+    "move": "D92",
+    "moveName": "Grunfeld, 5.Bf4",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Bf4"
+  },
+  {
+    "move": "D93",
+    "moveName": "Grunfeld, with Bf4 & e3",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Bf4 O-O 6 e3"
+  },
+  {
+    "move": "D94",
+    "moveName": "Grunfeld",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 e3"
+  },
+  {
+    "move": "D95",
+    "moveName": "Grunfeld",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 e3 O-O 6 Qb3"
+  },
+  {
+    "move": "D96",
+    "moveName": "Grunfeld, Russian Variation",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3"
+  },
+  {
+    "move": "D97",
+    "moveName": "Grunfeld, Russian",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4 6 Qxc4 O-O 7 e4"
+  },
+  {
+    "move": "D98",
+    "moveName": "Grunfeld, Russian",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4 6 Qxc4 O-O 7 e4 Bg4"
+  },
+  {
+    "move": "D99",
+    "moveName": "Grunfeld Defense, Smyslov",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4 6 Qxc4 O-O 7 e4 Bg4 8 Be3"
+  },
+  {
+    "move": "E00",
+    "moveName": "Queen's Pawn Game",
+    "steps": "1 d4 Nf6 2 c4 e6"
+  },
+  {
+    "move": "E01",
+    "moveName": "Catalan, Closed",
+    "steps": "1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2"
+  },
+  {
+    "move": "E02",
+    "moveName": "Catalan, Open, 5.Qa4",
+    "steps": "1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Qa4+"
+  },
+  {
+    "move": "E03",
+    "moveName": "Catalan, Open",
+    "steps": "1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Qa4+ Nbd7 6 Qxc4"
+  },
+  {
+    "move": "E04",
+    "moveName": "Catalan, Open, 5.Nf3",
+    "steps": "1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Nf3"
+  },
+  {
+    "move": "E05",
+    "moveName": "Catalan, Open, Classical line",
+    "steps": "1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Nf3 Be7"
+  },
+  {
+    "move": "E06",
+    "moveName": "Catalan, Closed, 5.Nf3",
+    "steps": "1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3"
+  },
+  {
+    "move": "E07",
+    "moveName": "Catalan, Closed",
+    "steps": "1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O 6 O-O Nbd7"
+  },
+  {
+    "move": "E08",
+    "moveName": "Catalan, Closed",
+    "steps": "1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O 6 O-O Nbd7 7 Qc2"
+  },
+  {
+    "move": "E09",
+    "moveName": "Catalan, Closed",
+    "steps": "1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O 6 O-O Nbd7 7 Qc2 c6 8 Nbd2"
+  },
+  {
+    "move": "E10",
+    "moveName": "Queen's Pawn Game",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nf3"
+  },
+  {
+    "move": "E11",
+    "moveName": "Bogo-Indian Defense",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nf3 Bb4+"
+  },
+  {
+    "move": "E12",
+    "moveName": "Queen's Indian",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nf3 b6"
+  },
+  {
+    "move": "E13",
+    "moveName": "Queen's Indian, 4.Nc3, Main line",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 Nc3 Bb7 5 Bg5 h6 6 Bh4 Bb4"
+  },
+  {
+    "move": "E14",
+    "moveName": "Queen's Indian",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 e3"
+  },
+  {
+    "move": "E15",
+    "moveName": "Queen's Indian",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3"
+  },
+  {
+    "move": "E16",
+    "moveName": "Queen's Indian",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Bb4+"
+  },
+  {
+    "move": "E17",
+    "moveName": "Queen's Indian",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7"
+  },
+  {
+    "move": "E18",
+    "moveName": "Queen's Indian, Old Main line, 7.Nc3",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7 6 O-O O-O 7 Nc3"
+  },
+  {
+    "move": "E19",
+    "moveName": "Queen's Indian, Old Main line, 9.Qxc3",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7 6 O-O O-O 7 Nc3 Ne4 8 Qc2 Nxc3"
+  },
+  {
+    "move": "E20",
+    "moveName": "Nimzo-Indian",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4"
+  },
+  {
+    "move": "E21",
+    "moveName": "Nimzo-Indian, Three Knights",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Nf3"
+  },
+  {
+    "move": "E22",
+    "moveName": "Nimzo-Indian, Spielmann Variation",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qb3"
+  },
+  {
+    "move": "E23",
+    "moveName": "Nimzo-Indian, Spielmann",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qb3 c5 5 dxc5 Nc6"
+  },
+  {
+    "move": "E24",
+    "moveName": "Nimzo-Indian, Samisch",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3"
+  },
+  {
+    "move": "E25",
+    "moveName": "Nimzo-Indian, Samisch",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 c5 6 f3 d5 7 cxd5"
+  },
+  {
+    "move": "E26",
+    "moveName": "Nimzo-Indian, Samisch",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 c5 6 e3"
+  },
+  {
+    "move": "E27",
+    "moveName": "Nimzo-Indian, Samisch Variation",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 O-O"
+  },
+  {
+    "move": "E28",
+    "moveName": "Nimzo-Indian, Samisch Variation",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 O-O 6 e3"
+  },
+  {
+    "move": "E29",
+    "moveName": "Nimzo-Indian, Samisch",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 O-O 6 e3 c5 7 Bd3 Nc6"
+  },
+  {
+    "move": "E30",
+    "moveName": "Nimzo-Indian, Leningrad",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Bg5"
+  },
+  {
+    "move": "E31",
+    "moveName": "Nimzo-Indian, Leningrad, Main line",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Bg5 h6 5 Bh4 c5 6 d5 d6"
+  },
+  {
+    "move": "E32",
+    "moveName": "Nimzo-Indian, Classical",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2"
+  },
+  {
+    "move": "E33",
+    "moveName": "Nimzo-Indian, Classical",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 Nc6"
+  },
+  {
+    "move": "E34",
+    "moveName": "Nimzo-Indian, Classical, Noa Variation",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5"
+  },
+  {
+    "move": "E35",
+    "moveName": "Nimzo-Indian, Classical, Noa Variation, 5.cd ed",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 cxd5 exd5"
+  },
+  {
+    "move": "E36",
+    "moveName": "Nimzo-Indian, Classical",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 a3"
+  },
+  {
+    "move": "E37",
+    "moveName": "Nimzo-Indian, Classical",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 a3 Bxc3+ 6 Qxc3 Ne4 7 Qc2"
+  },
+  {
+    "move": "E38",
+    "moveName": "Nimzo-Indian, Classical, 4...c5",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 c5"
+  },
+  {
+    "move": "E39",
+    "moveName": "Nimzo-Indian, Classical, Pirc Variation",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 c5 5 dxc5 O-O"
+  },
+  {
+    "move": "E40",
+    "moveName": "Nimzo-Indian, 4.e3",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3"
+  },
+  {
+    "move": "E41",
+    "moveName": "Nimzo-Indian",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 c5"
+  },
+  {
+    "move": "E42",
+    "moveName": "Nimzo-Indian, 4.e3 c5, 5.Ne2 (Rubinstein)",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 c5 5 Ne2"
+  },
+  {
+    "move": "E43",
+    "moveName": "Nimzo-Indian, Fischer Variation",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 b6"
+  },
+  {
+    "move": "E44",
+    "moveName": "Nimzo-Indian, Fischer Variation, 5.Ne2",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 b6 5 Ne2"
+  },
+  {
+    "move": "E45",
+    "moveName": "Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 b6 5 Ne2 Ba6"
+  },
+  {
+    "move": "E46",
+    "moveName": "Nimzo-Indian",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O"
+  },
+  {
+    "move": "E47",
+    "moveName": "Nimzo-Indian, 4.e3 O-O 5.Bd3",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3"
+  },
+  {
+    "move": "E48",
+    "moveName": "Nimzo-Indian, 4.e3 O-O 5.Bd3 d5",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3 d5"
+  },
+  {
+    "move": "E49",
+    "moveName": "Nimzo-Indian, 4.e3, Botvinnik System",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3 d5 6 a3 Bxc3+ 7 bxc3"
+  },
+  {
+    "move": "E50",
+    "moveName": "Nimzo-Indian, 4.e3 O-O 5.Nf3, without ...d5",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3"
+  },
+  {
+    "move": "E51",
+    "moveName": "Nimzo-Indian, 4.e3",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5"
+  },
+  {
+    "move": "E52",
+    "moveName": "Nimzo-Indian, 4.e3, Main line with ...b6",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 b6"
+  },
+  {
+    "move": "E53",
+    "moveName": "Nimzo-Indian, 4.e3",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5"
+  },
+  {
+    "move": "E54",
+    "moveName": "Nimzo-Indian, 4.e3, Gligoric System",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O dxc4 8 Bxc4"
+  },
+  {
+    "move": "E55",
+    "moveName": "Nimzo-Indian, 4.e3, Gligoric System, Bronstein Variation",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O dxc4 8 Bxc4 Nbd7"
+  },
+  {
+    "move": "E56",
+    "moveName": "Nimzo-Indian, 4.e3, Main line with 7...Nc6",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6"
+  },
+  {
+    "move": "E57",
+    "moveName": "Nimzo-Indian, 4.e3, Main line with 8...dc and 9...cd",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 dxc4 9 Bxc4"
+  },
+  {
+    "move": "E58",
+    "moveName": "Nimzo-Indian, 4.e3, Main line with 8...Bxc3",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 Bxc3 9 bxc3"
+  },
+  {
+    "move": "E59",
+    "moveName": "Nimzo-Indian, 4.e3, Main line",
+    "steps": "1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 Bxc3 9 bxc3 dxc4 10 Bxc4"
+  },
+  {
+    "move": "E60",
+    "moveName": "King's Indian Defense",
+    "steps": "1 d4 Nf6 2 c4 g6"
+  },
+  {
+    "move": "E61",
+    "moveName": "King's Indian",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3"
+  },
+  {
+    "move": "E62",
+    "moveName": "King's Indian, Fianchetto",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3"
+  },
+  {
+    "move": "E63",
+    "moveName": "King's Indian, Fianchetto, Panno Variation",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nc6 7 O-O a6"
+  },
+  {
+    "move": "E64",
+    "moveName": "King's Indian, Fianchetto, Yugoslav System",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 c5"
+  },
+  {
+    "move": "E65",
+    "moveName": "King's Indian, Fianchetto, Yugoslav, 7.O-O",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 c5 7 O-O"
+  },
+  {
+    "move": "E66",
+    "moveName": "King's Indian, Fianchetto, Yugoslav Panno",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 c5 7 O-O Nc6 8 d5"
+  },
+  {
+    "move": "E67",
+    "moveName": "King's Indian, Fianchetto",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7"
+  },
+  {
+    "move": "E68",
+    "moveName": "King's Indian, Fianchetto, Classical Variation, 8.e4",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7 7 O-O e5 8 e4"
+  },
+  {
+    "move": "E69",
+    "moveName": "King's Indian, Fianchetto, Classical Main line",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7 7 O-O e5 8 e4 c6 9 h3"
+  },
+  {
+    "move": "E70",
+    "moveName": "King's Indian",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4"
+  },
+  {
+    "move": "E71",
+    "moveName": "King's Indian, Makagonov System (5.h3)",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 h3"
+  },
+  {
+    "move": "E72",
+    "moveName": "King's Indian",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 g3"
+  },
+  {
+    "move": "E73",
+    "moveName": "King's Indian",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2"
+  },
+  {
+    "move": "E74",
+    "moveName": "King's Indian, Averbakh, 6...c5",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2 O-O 6 Bg5 c5"
+  },
+  {
+    "move": "E75",
+    "moveName": "King's Indian, Averbakh, Main line",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2 O-O 6 Bg5 c5 7 d5 e6"
+  },
+  {
+    "move": "E76",
+    "moveName": "King's Indian, Four Pawns Attack",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4"
+  },
+  {
+    "move": "E77",
+    "moveName": "King's Indian",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2"
+  },
+  {
+    "move": "E78",
+    "moveName": "King's Indian, Four Pawns Attack, with Be2 and Nf3",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2 c5 7 Nf3"
+  },
+  {
+    "move": "E79",
+    "moveName": "King's Indian, Four Pawns Attack, Main line",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2 c5 7 Nf3 cxd4 8 Nxd4 Nc6 9 Be3"
+  },
+  {
+    "move": "E80",
+    "moveName": "King's Indian, Samisch Variation",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3"
+  },
+  {
+    "move": "E81",
+    "moveName": "King's Indian, Samisch",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O"
+  },
+  {
+    "move": "E82",
+    "moveName": "King's Indian, Samisch, double Fianchetto Variation",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 b6"
+  },
+  {
+    "move": "E83",
+    "moveName": "King's Indian, Samisch",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 Nc6"
+  },
+  {
+    "move": "E84",
+    "moveName": "King's Indian, Samisch, Panno Main line",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 Nc6 7 Nge2 a6 8 Qd2 Rb8"
+  },
+  {
+    "move": "E85",
+    "moveName": "King's Indian, Samisch, Orthodox Variation",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5"
+  },
+  {
+    "move": "E86",
+    "moveName": "King's Indian, Samisch, Orthodox, 7.Nge2 c6",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 Nge2 c6"
+  },
+  {
+    "move": "E87",
+    "moveName": "King's Indian, Samisch, Orthodox",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 d5"
+  },
+  {
+    "move": "E88",
+    "moveName": "King's Indian, Samisch, Orthodox, 7.d5 c6",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 d5 c6"
+  },
+  {
+    "move": "E89",
+    "moveName": "King's Indian, Samisch, Orthodox Main line",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 d5 c6 8 Nge2 cxd5"
+  },
+  {
+    "move": "E90",
+    "moveName": "King's Indian",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3"
+  },
+  {
+    "move": "E91",
+    "moveName": "King's Indian",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2"
+  },
+  {
+    "move": "E92",
+    "moveName": "King's Indian",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5"
+  },
+  {
+    "move": "E93",
+    "moveName": "King's Indian, Petrosian System",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 d5 Nbd7"
+  },
+  {
+    "move": "E94",
+    "moveName": "King's Indian, Orthodox",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O"
+  },
+  {
+    "move": "E95",
+    "moveName": "King's Indian, Orthodox, 7...Nbd7, 8.Re1",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nbd7 8 Re1"
+  },
+  {
+    "move": "E96",
+    "moveName": "King's Indian, Orthodox, 7...Nbd7, Main line",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nbd7 8 Re1 c6 9 Bf1 a5"
+  },
+  {
+    "move": "E97",
+    "moveName": "King's Indian",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6"
+  },
+  {
+    "move": "E98",
+    "moveName": "King's Indian, Orthodox, Taimanov, 9.Ne1",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6 8 d5 Ne7 9 Ne1"
+  },
+  {
+    "move": "E99",
+    "moveName": "King's Indian, Orthodox, Taimanov",
+    "steps": "1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6 8 d5 Ne7 9 Ne1 Nd7 10 f3 f5"
+  }
+]
