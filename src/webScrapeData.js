@@ -27,6 +27,8 @@ rp(url)
       ).text();
 
       const row = { move, moveName, steps };
+
+      console.log(row);
       if (row.move !== "") {
         scrapedData.push(row);
       }
