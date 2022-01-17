@@ -27,15 +27,12 @@ app.get("/:move", searchElement);
 function searchElement(req, res) {
   var move = req.params.move;
   move = move.toUpperCase();
-  var reply = elements.filter(function (row) {
-    if (row.move === move) {
-      return row.move;
-    } else {
-      return false;
-    }
+  let reply = elements.filter((row) => {
+    return row.move === move ? row : "";
   });
-  var data = reply[0];
-  data = { moveName: data.moveName, steps: data.steps };
-
-  res.send(data);
+  if (reply.length === 0) {
+    res.send({ status: "Not found" });
+  } else {
+    res.send({ data: reply[0] });
+  }
 }
