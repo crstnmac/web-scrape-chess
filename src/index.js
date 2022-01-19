@@ -2,7 +2,7 @@ const fs = require("fs");
 
 var data = fs.readFileSync("src/data.json");
 
-var elements = JSON.parse(data);
+let elements = JSON.parse(data);
 
 const express = require("express");
 
@@ -27,12 +27,9 @@ app.get("/:move", searchElement);
 function searchElement(req, res) {
   var move = req.params.move;
   move = move.toUpperCase();
-  let reply = elements.filter((row) => {
-    return row.move === move ? row : "";
-  });
-  if (reply.length === 0) {
-    res.send({ status: "Not found" });
+  if (elements.find((element) => element.move === move)) {
+    res.send(elements.find((element) => element.move === move));
   } else {
-    res.send({ data: reply[0] });
+    res.send({ status: "Not found" });
   }
 }
